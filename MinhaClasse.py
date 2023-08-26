@@ -43,6 +43,6 @@ c2.andar()
 
 c2.ligar()
 c2.andar()
-
+c3.andar()
 
         
